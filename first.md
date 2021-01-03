@@ -1,3 +1,4 @@
-#First post
+# First post
 
-Hello World!
+### Hello World!  
+This is a test
