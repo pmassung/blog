@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-FIRST POST [First Post](./first.md)
+[FIRST POST](./first.md)
 
 
 ### Jekyll Themes
